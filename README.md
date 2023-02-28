@@ -12,8 +12,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
+
+#
+
+<h3 align="center">:link: My Link 🔗</h3>
+
+<div align="center">
+  
+  <a href="http://melonicedlatte.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+
+</div>
+
+#
 
 <h3 align="center">:seedling: Baekjoon 현황 :seedling:</h3>
   
@@ -22,6 +37,8 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cba06130)](https://solved.ac/cba06130/)
   
 </div>
+
+#
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
