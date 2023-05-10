@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
 
+  
 </div>
 
 #
@@ -67,5 +68,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChoSooBeen&show_icons=true&theme=vue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoSooBeen&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
+
+ <img align = "right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
