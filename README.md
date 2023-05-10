@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SOOBEEN's%20study%20room&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=SOOBEEN's%20study%20room&fontSize=30&fontColor=FFFFFF)
 
 </div>  
   
@@ -67,3 +67,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChoSooBeen&show_icons=true&theme=vue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoSooBeen&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
