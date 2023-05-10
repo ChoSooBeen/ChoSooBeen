@@ -47,7 +47,6 @@
   <a href="https://soo-note.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-
   
 </div>
 
@@ -57,12 +56,17 @@
   
 <div align="center">
   
+  <img align="left" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cba06130)](https://solved.ac/cba06130/)
-  
- <img align = "right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
-  
+  <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+ 
 </div>
+  
 
+
+
+  
 #
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
