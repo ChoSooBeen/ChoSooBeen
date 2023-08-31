@@ -1,9 +1,10 @@
-<div>
+<!-- <div>
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=SOOBEEN's%20study%20room&fontSize=30&fontColor=FFFFFF)
 
 </div>  
+-->
   
 <h3 align="center">:books: Tech Study :books:</h3>
 
@@ -56,12 +57,15 @@
 <h3 align="center">:seedling: Baekjoon 현황 :seedling:</h3>
   
 <div align="center">
-  
+
+  <!-- 
   <img align="left" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+  -->
   
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cba06130)](https://solved.ac/cba06130/)
+ <!--
   <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
- 
+ -->
 </div>
   
 
@@ -77,8 +81,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoSooBeen&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
 
+<!--
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
 
 </div>
+-->
