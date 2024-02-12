@@ -14,7 +14,6 @@
 
   🔗 Blog : https://soo-note.tistory.com/
 
-  📑 Study : https://github.com/soo-note
 </div>
 
 <div align="center">
