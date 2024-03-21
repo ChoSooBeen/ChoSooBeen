@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    백엔드 개발자 지망생 조수빈이라고 합니다😄
+    백엔드 개발자 조수빈이라고 합니다😄
   </p>
 
   📧 Email : cba0613060@gmail.com
